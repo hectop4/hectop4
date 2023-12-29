@@ -11,7 +11,7 @@ Soy Héctor, un apasionado de la ingeniería electrónica con sede en Colombia. 
 Desarrollo de sistemas embebidos
 Inteligencia Artificial
 Gestión de proyectos
-🚀 Intereses en exploración espacial
+## 🚀 Intereses en exploración espacial
 Desde la electrónica hasta la propulsión espacial, me fascina todo lo relacionado con la exploración del espacio. Sigo de cerca las misiones espaciales actuales y las futuras tecnologías que nos llevarán más allá de nuestro planeta.
 
 
