@@ -1,11 +1,28 @@
-<h1>Introduction</h1>
-<p>- 👋 Hi, I’m @hectop4 I am a colombian🟡🔵🔴 junior programmer</p>
-<p>- 👀 I’m interested in web and mobile development.</p>
-<p>- 🌱 I’m currently learning Javascript, python, html, css.</p>
-<p>- 💞️ I’m looking to collaborate on Personal projects to improve my programing skills</p>
-<p>- 📫 How to reach me "personal chat" </p>
+# Hola, soy Héctor 👋
 
-<!---
-hectop4/hectop4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Ingeniero Electrónico 🛠️ | Divulgador en YouTube 🎥 | En búsqueda activa de empleo 🌐
+
+---
+
+## Acerca de mí
+Soy Héctor, un apasionado de la ingeniería electrónica con sede en Colombia. Actualmente, estoy enfocado en ampliar mis conocimientos en el campo y buscando nuevas oportunidades laborales. También me dedico a la divulgación técnica a través de mi canal de YouTube. Tengo un profundo interés en la exploración espacial y todo lo relacionado con el espacio exterior.
+
+🌱 Actualmente aprendiendo
+Desarrollo de sistemas embebidos
+Inteligencia Artificial
+Gestión de proyectos
+🚀 Intereses en exploración espacial
+Desde la electrónica hasta la propulsión espacial, me fascina todo lo relacionado con la exploración del espacio. Sigo de cerca las misiones espaciales actuales y las futuras tecnologías que nos llevarán más allá de nuestro planeta.
+
+
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: [Héctor Puentes](https://www.linkedin.com/in/hector-puentes-b99309215/)
+- YouTube: [Mi Canal Seamos Ingeniosos](https://www.youtube.com/channel/UCa33_8sXwAnMq9wWcJbe3Kg)
+
+
+
+¡Gracias por visitar! Espero que podamos conectar pronto. 😊
