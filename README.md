@@ -1,29 +1,67 @@
-# Hola, soy Héctor 👋  
-**Ingeniero Electrónico 🛠️ | Divulgador en YouTube 🎥 | Apasionado por la exploración espacial 🚀 | En búsqueda activa de empleo 🌐**  
+<h1 align="center">👨‍💻 ¡Hola! Soy Sr. Hector</h1>
+<p align="center">Ingeniero Electrónico | Apasionado por la programación, la tecnología y la enseñanza | Entusiasta de las ciencias espaciales</p>
 
-## Acerca de mí  
-Soy Héctor, un apasionado de la ingeniería electrónica con sede en Colombia. Próximo a iniciar una maestría en investigación con énfasis en **robótica y dispositivos exploratorios espaciales**.  
-Actualmente, estoy enfocado en ampliar mis conocimientos y buscando nuevas oportunidades laborales. También me dedico a la divulgación técnica a través de mi canal de YouTube **Seamos Ingeniosos**, donde comparto contenido sobre ingeniería, electrónica y tecnología.  
+---
 
-## 🛠️ Habilidades Técnicas  
-- **Lenguajes de Programación:** Python, C, C++  
-- **Plataformas:** ESP32, Arduino, Raspberry Pi  
-- **Desarrollo Web:** Flask (en aprendizaje)  
-- **IoT y Sistemas Embebidos**  
+### 🚀 Sobre mí
 
-## 🌱 Actualmente aprendiendo  
-- **Desarrollo de sistemas embebidos**  
-- **Inteligencia Artificial aplicada a la robótica**  
-- **Gestión de proyectos**  
-- **Internet de las Cosas (IoT)**  
-- **Desarrollo web con Python (Flask)**  
+- 🎓 Ingeniero Electrónico.
+- 🔧 Desarrollador de proyectos de ingeniería, electrónica y software.
+- 🎥 Creador de contenido educativo en redes sociales (YouTube, Instagram y TikTok).
+- 🌐 Interesado en aprender portugués.
+- 🧠 Siempre explorando nuevas herramientas, lenguajes y tecnologías.
 
-## 🚀 Exploración Espacial  
-Desde la electrónica hasta la propulsión espacial, me fascina todo lo relacionado con la exploración del espacio. Sigo de cerca las misiones espaciales actuales y las futuras tecnologías que nos llevarán más allá de nuestro planeta.  
+---
 
-## 📫 Contacto  
-- **LinkedIn:** [Héctor Puentes](https://www.linkedin.com/in/hector-puentes-b99309215/)  
-- **YouTube:** [Seamos Ingeniosos](https://www.youtube.com/channel/UCa33_8sXwAnMq9wWcJbe3Kg)  
-- **GitHub:** [@hectop4](https://github.com/hectop4)  
+### 🛠️ Tecnologías y Herramientas
 
-¡Gracias por visitar! Espero que podamos conectar pronto. 😊  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hectop4&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectop4&layout=compact&theme=github_dark" height="150"/>
+</p>
+
+---
+
+### 📚 Proyectos Destacados
+
+- 🔌 **AgroSync: Gestor de cultivos**
+- 📱 **TechNova: Curso-Concurso CanSat 2024-2025; Interfaz Humano-Maquina**
+- 🤖 **Amity Rover: Rover para Exploracion de Entornos Desconocidos**
+- 📊 **Simulaciones y visualización de datos**
+
+---
+
+### 🌐 Encuéntrame en:
+
+<p align="center">
+  <a href="https://www.youtube.com/@seamosingeniosos" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> 
+  <a href="https://www.instagram.com/seamos_ingeniosos" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.tiktok.com/@seamos.ingeniosos" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="mailto:hectorjosepuentesruiz@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+> 🎯 _"La ingeniería no solo resuelve problemas. También crea maravillas."_  
+> — Sr. Hector
