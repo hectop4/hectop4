@@ -74,5 +74,5 @@
 
 ---
 
-> 🎯 _"Parece Imposible h=Hasta Que Se Hace"_  
+> 🎯 _"Parece Imposible Hasta Que Se Hace"_  
 > — Nelson Mandela
